@@ -16,7 +16,7 @@ h2 {
 }
 
 p {
+  background-color: #f2bcbc;
   border-style: solid;
-  border-width: thin;
-  color: black;
+  border-color: #b92828;
 }
