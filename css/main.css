@@ -11,12 +11,9 @@ th, td {
   border: 1px solid #e2e2e2;
 }
 
-h2 {
-  text-align: center;
-}
-
 p {
   background-color: #f2bcbc;
   border-style: solid;
   border-color: #b92828;
+  border-radius: 8px;
 }
